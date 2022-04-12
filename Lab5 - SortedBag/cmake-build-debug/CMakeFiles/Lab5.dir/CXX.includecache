@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Diverse/DSA/Lab5/SortedBag.cpp
+iostream
+-
+exception
+-
+SortedBag.h
+C:/Diverse/DSA/Lab5/SortedBag.h
+SortedBagIterator.h
+C:/Diverse/DSA/Lab5/SortedBagIterator.h
+
+C:/Diverse/DSA/Lab5/SortedBag.h
+
+C:/Diverse/DSA/Lab5/SortedBagIterator.h
+SortedBag.h
+C:/Diverse/DSA/Lab5/SortedBag.h
+
