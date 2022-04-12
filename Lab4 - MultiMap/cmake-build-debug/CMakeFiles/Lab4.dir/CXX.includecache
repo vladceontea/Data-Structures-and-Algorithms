@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Diverse/DSA/Lab4/MultiMap.cpp
+MultiMap.h
+C:/Diverse/DSA/Lab4/MultiMap.h
+MultiMapIterator.h
+C:/Diverse/DSA/Lab4/MultiMapIterator.h
+exception
+-
+iostream
+-
+
+C:/Diverse/DSA/Lab4/MultiMap.h
+vector
+-
+utility
+-
+
+C:/Diverse/DSA/Lab4/MultiMapIterator.h
+MultiMap.h
+C:/Diverse/DSA/Lab4/MultiMap.h
+
